@@ -13,7 +13,6 @@ Phase I - Foundation
 
 Phase II - Parallelism
  * Parallelize contract endpoints
- * Create services to manage parallelized contract instances
  * Update metrics APIs to handle parallelized contract
 
 Phase III - Integration
